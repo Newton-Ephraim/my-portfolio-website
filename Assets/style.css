@@ -225,8 +225,8 @@ nav ul li a:hover::after {
   font-size: 18px;
   line-height: 60px;
   background: #fff;
-  width: 50px;
-  height: 50px;
+  width: 60px;
+  height: 60px;
   border-radius: 50%;
   text-align: center;
 }
@@ -327,7 +327,7 @@ nav .fa-solid {
   }
   .header-text {
     margin-top: 70%;
-    font-size: 1rem;
+    font-size: 16px;
   }
   .header-text h1 {
     font-size: 35px;
